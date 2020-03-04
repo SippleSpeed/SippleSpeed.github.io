@@ -63,6 +63,7 @@ img{
 
 form{
   display: flex;
+  justify-content:center;
   width: 800px;
   margin: auto;
   justify-content: center;
